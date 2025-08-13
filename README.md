@@ -1,11 +1,11 @@
 ### Imersão Dados em Python :rocket:
 
 Olá! Esse projeto foi criado com o auxílio dos meus mentores Vinicius Caridá, Valquíria Alencar e Guilherme Lima na Imersão Dados em Python da plataforma Alura, onde em 5 aulas foram introduzidos os temas:
-# Primeiros Passos em Python
-# Explorando dados com Pandas
-# Aprendendo a preparar e limpar dados
-# Criar gráficos contando histórias com os dados
-# Como construir um dashboard interativo
+- Primeiros Passos em Python
+- Explorando dados com Pandas
+- Aprendendo a preparar e limpar dados
+- Criar gráficos contando histórias com os dados
+- Como construir um dashboard interativo
 
 Ao longo das aulas e dos ensinamentos elucidados pelos mentores, fui capaz de criar esse dashboard com o auxílio deles e avançar nos meus estudos de Python e agora na área de dados também.
 
